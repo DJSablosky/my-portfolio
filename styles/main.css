@@ -229,3 +229,12 @@ h1, h2, h3, h4, h5, h6 {
 .modal__image {
   opacity: 0.2;
 }
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 7.69%;
+  padding: 1px;
+}
