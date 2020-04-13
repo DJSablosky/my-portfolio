@@ -14,9 +14,11 @@ const myWork = [
     }
   },*/
   {
-    'title':  "Portfolio Boilerplate",
-    'href':  "https://example.com",
-    'desc':  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    'title':  "IIS Cookbook",
+    'href':  "https://www.slideshare.net/djsablosky/iis-cookbook",
+    'desc':  "This is a Chef wrapper cookbook of the IIS Cookbook in the Chef" +
+             "Supermarket deployed on an AWS EC2 instance of a Microsoft" +
+             "Windows Server platform",
     'image':  {
       'desc':  "A Serverless Portfolio",
       'src':  "images/example1.png",
