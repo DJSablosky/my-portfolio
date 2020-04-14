@@ -15,10 +15,10 @@ const myWork = [
   },*/
   {
     'title':  "IIS Cookbook",
-    'href':  "https://www.slideshare.net/djsablosky/iis-cookbook",
+    'href':  "https://www.slideshare.net/djsablosky/iis-cookbook-231984778",
     'desc':  "This is a Chef wrapper cookbook of the IIS Cookbook in the Chef" +
              "Supermarket deployed on an AWS EC2 instance of a Microsoft" +
-             "Windows Server platform",
+             "Windows Server 2012 R2 platform",
     'image':  {
       'desc':  "A Serverless Portfolio",
       'src':  "images/example1.png",
