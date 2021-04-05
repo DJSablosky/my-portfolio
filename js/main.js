@@ -14,6 +14,16 @@ const myWork = [
     }
   },*/
   {
+    'title':  "My Cloud Blog",
+    'href':  "https://blog.sablosky.io/",
+    'desc':  "This is an AWS Amplify application created with the Hugo static generator to eventually replace this Serverless Portfolio.",
+    'image':  {
+      'desc':  "A Serverless Portfolio",
+      'src':  "images/example1.png",
+      'comment':  ""
+    }
+  },
+  {
     'title':  "IIS Cookbook",
     'href':  "https://www.slideshare.net/djsablosky/iis-cookbook-231984778",
     'desc':  "This is a Chef wrapper cookbook of the IIS Cookbook in the Chef" +
