@@ -35,7 +35,7 @@ const myWork = [
       'comment':  ""
     }
   },
-  /*{
+  {
     'title':  "SharePoint Portfolio",
     'href':  "https://www.slideshare.net/djsablosky/sharepoint-portfolio-26477950",
     'desc':  "This SharePoint portfolio demonstrates a web application built" +
@@ -48,7 +48,7 @@ const myWork = [
       'src':  "images/example2.png",
       'comment':  ""
     }
-  },*/
+  },
   {
     'title':  ".NET Portfolio",
     'href':  "https://www.slideshare.net/djsablosky/portfolio-6521910",
